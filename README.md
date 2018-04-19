@@ -1,0 +1,1 @@
+I don't think this application needs any explanation. I did this back in school and forgot about it, but was recently asked to do it again. I thought it was really interesting that even though I completly forgot about doing this, I still came up with the exact same solution 10+ years late.
